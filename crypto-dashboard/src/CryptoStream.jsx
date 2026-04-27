@@ -12,6 +12,8 @@ import {
 } from "recharts";
 import "./CryptoStream.css";
 
+// cmmit test
+
 const HUB_URL = import.meta.env.VITE_SIGNALR_URL || "http://localhost:5283/marketHub";
 const RANGE_OPTIONS = [
     { key: "second", label: "Segundo" },
