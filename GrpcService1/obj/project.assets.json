@@ -794,32 +794,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\juanp\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\mindata.jperniola\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanp\\Desktop\\websocket project\\GrpcService1\\GrpcService1.csproj",
+      "projectUniqueName": "C:\\Users\\mindata.jperniola\\Desktop\\a\\websocket-project\\GrpcService1\\GrpcService1.csproj",
       "projectName": "GrpcService1",
-      "projectPath": "C:\\Users\\juanp\\Desktop\\websocket project\\GrpcService1\\GrpcService1.csproj",
-      "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanp\\Desktop\\websocket project\\GrpcService1\\obj\\",
+      "projectPath": "C:\\Users\\mindata.jperniola\\Desktop\\a\\websocket-project\\GrpcService1\\GrpcService1.csproj",
+      "packagesPath": "C:\\Users\\mindata.jperniola\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mindata.jperniola\\Desktop\\a\\websocket-project\\GrpcService1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mindata.jperniola\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -868,7 +860,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\.net\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
